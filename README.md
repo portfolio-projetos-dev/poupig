@@ -32,8 +32,6 @@ Com o Poupig, é possível registrar receitas e despesas categorizando cada movi
 
 ### Execução:
 
-#### Backend (NestJS)
-
 1. Clone o repositório:
 
    ```sh
@@ -90,6 +88,11 @@ npm run dev
 - Visualização de receitas, despesas e lucro
 - Interface intuitiva e responsiva para monitoramento financeiro
 - Exibição de dados financeiros em tempo real
+- Relatórios detalhados e gráficos interativos
+- Autenticação segura
+- Integração com APIs de bancos para sincronização automática
+- Histórico de transações e busca avançada
+- Modo escuro para melhor visualização
 
 ![](https://github.com/portfolio-projetos-dev/poupig/raw/main/.gitassets/1.png)
 
